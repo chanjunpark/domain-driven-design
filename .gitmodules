@@ -1,0 +1,3 @@
+[submodule "ddd-start2"]
+	path = ddd-start2
+	url = https://github.com/madvirus/ddd-start2.git
